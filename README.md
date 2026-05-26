@@ -7,6 +7,7 @@ Using sympy library to find primes (as it´s faster than using own script)
 Prime number funciton (without sympy):
 
 import math
+
 def isprime(number):
 
     a,square = 3, math.isqrt(number)
