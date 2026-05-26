@@ -5,7 +5,7 @@ Short python script that uses Eukleid-Euler theorem to fond perfect numbers
 Using sympy library to find primes (as it´s faster than using own script)
 
 Prime number funciton (without sympy):
-
+```python
 import math
 
 def isprime(number):
